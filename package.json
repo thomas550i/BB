@@ -33,7 +33,7 @@
     "@progress/kendo-vue-popup": "^0.5.4",
     "ag-grid-community": "^23.0.2",
     "ag-grid-vue": "^23.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.4.4",
     "jQuery": "^1.7.4",
     "jquery": "^3.5.0",
